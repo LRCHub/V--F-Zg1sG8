@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "酸欠",
+  "base_artist": "三船栞子 (CV.小泉萌香)",
+  "createdAt": "2026-01-14T04:47:33.384585Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "酸欠",
+      "artist": "三船栞子 (CV.小泉萌香)",
+      "has_synced": false,
+      "path": "select/pl_01_酸欠_三船栞子_(CV.小泉萌香).txt"
+    }
+  ]
+}
